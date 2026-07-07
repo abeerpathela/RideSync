@@ -2,6 +2,9 @@
 
 A full-stack MERN application for booking cab rides.
 
+<img width="1901" height="906" alt="image" src="https://github.com/user-attachments/assets/468207b6-9732-4380-8dac-30e7b93de6b9" />
+
+
 ## Features
 
 - User Authentication (Login/Register)
